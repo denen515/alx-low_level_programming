@@ -36,9 +36,9 @@ void printHexes(char *b, int start, int end)
 	}
 }
 
-/** 
+/**
  * printASCII - print ascii values for string b,
- * formatted to replace nonprintable chars with '.'
+ * formatted to replace nonprintable chars with
  * @b: string to print
  * @start: starting position
  * @end: ending position
